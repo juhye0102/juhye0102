@@ -3,10 +3,9 @@
 <br />
   <h2>💻Tech🖱</h2>
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-007396?style=flat&logo=Java&logoColor=white"/></a>
+
 
   
   
@@ -18,6 +17,5 @@
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:fbc2eb,100:a6c1ee&height=130)
